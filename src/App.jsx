@@ -1,8 +1,11 @@
-import React, { Component } from 'react';
+import React from 'react';
 import MoviesListContainer from './containers/MoviesListContainer';
 import FiltersContainer from './containers/FiltersContainer';
 
-const App = (props) => {
+/**
+ * Main app.
+ */
+const App = () => {
   return (
     <div className="movie-app">
       <FiltersContainer />

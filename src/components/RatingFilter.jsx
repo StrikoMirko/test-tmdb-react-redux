@@ -2,6 +2,9 @@ import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import PrettyRating from './PrettyRating';
 
+/**
+ * React component for RatingFilter.
+ */
 class RatingFilter extends Component {
   /**
    * Constructor function, set default state.
