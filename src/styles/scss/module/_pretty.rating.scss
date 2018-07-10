@@ -1,0 +1,25 @@
+.pretty-rating {
+  margin-top: 5px;
+
+  &__button {
+    display: inline-block;
+    background-color: $CERULEAN;
+    border: 0px none;
+    border-radius: $border-radius;
+    color: $WHITE;
+    height: 40px;
+    width: 15%;
+    cursor: pointer;
+    font-size: $font-size-h5;
+  }
+  &__input {
+    display: inline-block;
+    width: 30%;
+    vertical-align: middle;
+    height: 40px;
+    margin: 0px 10px;
+    border: 0px none;
+    padding: 0px;
+    text-align: center;
+  }
+}

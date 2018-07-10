@@ -1,0 +1,10 @@
+.checkbox-li {
+  display: inline-block;
+  margin: 5pxpx;
+
+  &__label {
+    padding: 5px;
+    font-size: $font-size-small;
+    cursor: pointer;
+  }
+}
