@@ -8,7 +8,6 @@ const PrettyRating = (props) => {
   const {
     onIncrement, onDecrement, increment, rating, enabled
   } = props;
-  console.log(enabled);
   return (
     <div className="pretty-rating">
       <button
