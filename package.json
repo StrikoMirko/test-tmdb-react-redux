@@ -22,6 +22,7 @@
     "async-await-jasmine": "^0.0.2",
     "autoprefixer": "^8.2.0",
     "axios": "^0.18.0",
+    "karma-cli": "^1.0.1",
     "lodash": "^4.17.10",
     "method-override": "^2.3.10",
     "prop-types": "^15.6.1",
